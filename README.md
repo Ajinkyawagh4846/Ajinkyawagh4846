@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="800">
-
 # Hey there! 👋 I'm Ajinkya Wagh
+
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="800">
 
 ### Computer Engineering Student | Problem Solver | Hackathon Finalist
   
@@ -23,9 +23,7 @@
 - 💡 Passionate about solving real-world problems through code and innovation
 - 🤖 Hands-on experience in building **ML-powered solutions** and intelligent systems
 - 📊 Practical exposure to **Business Intelligence, SaaS workflows, and supply-chain analytics**
-- 🎯 Strong foundation in **DSA, OOP, DBMS**, and software engineering principles
 - 🚀 Currently building a diverse GitHub portfolio with meaningful, impactful projects
-- 🔍 Thrive at the intersection of **logic, creativity, and technology**
 
 ---
 
@@ -53,17 +51,6 @@
 
 ---
 
-## 🏆 Achievements & Highlights
-
-🥇 **i-Hack Hackathon Finalist** – IIT Bombay E-Summit 2025 (Top 20 teams across India)  
-📚 **Consistent Top 5 Performer** – SGPA: 9.18 (2nd Year), 8.86 (1st Year)  
-🚀 **Smart India Hackathon** – Qualified college-level internal rounds (2024 & 2025)  
-📊 **Power BI Dashboard** – Created interactive sales analytics dashboard  
-🎓 **NPTEL Certified** – Programming in Java  
-🌍 **UNESCO Hackathon** – Participant
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,45 +65,15 @@
 
 ---
 
-## 🔭 What I'm Currently Working On
+## 🌟 Highlights
 
-- 🛠️ Building a diverse GitHub portfolio with 9+ repositories showcasing full-stack, ML, and data projects
-- 🤖 Deepening my understanding of Machine Learning and AI applications
-- ☁️ Exploring Cloud Architecture and DevOps practices
-- 📈 Learning advanced data engineering concepts and real-time analytics
-
----
-
-## 🌱 Experience Highlights
-
-During my journey, I've gained hands-on exposure to:
-
-- **Business Intelligence**: Built dashboards, analyzed sales data, understood KPIs
-- **SaaS Workflows**: Multi-tenancy, API communication, subscription models
-- **Supply Chain Analytics**: Data flow, ETL processes, columnar databases (BigQuery)
-- **Problem Solving**: Competed in multiple national-level hackathons, solved real-world challenges
-
----
-
-## 🎯 Interests
-
-- Machine Learning & AI for Social Good
-- Full-Stack Development
-- Data Engineering & Analytics
-- Building Scalable SaaS Products
-- Open Source Contributions
+i-Hack Hackathon Finalist at IIT Bombay E-Summit 2025, placing in the top 20 teams nationally. Qualified for Smart India Hackathon multiple times and consistently maintained top academic performance. Passionate about building practical solutions through hackathons and hands-on projects.
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to:
-- 💼 Internship opportunities
-- 🤝 Collaboration on interesting projects
-- 💡 Learning from experienced developers
-- 🗣️ Tech discussions and knowledge sharing
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ajinkyawagh-a201212b8) or [Email](mailto:ajinkyawagh2005@gmail.com)!
+I'm always open to collaborating on interesting projects, internship opportunities, and tech discussions. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ajinkyawagh-a201212b8) or [Email](mailto:ajinkyawagh2005@gmail.com)!
 
 ---
 
