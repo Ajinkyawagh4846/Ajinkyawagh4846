@@ -16,11 +16,14 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineering student at **Savitribai Phule Pune University** with a passion for solving real-world problems through code. With a consistent track record of being in the **Top 5** of my class and hands-on experience in building ML-powered solutions, I thrive at the intersection of logic, creativity, and technology.
-
-Beyond academics, I've gained practical exposure to **Business Intelligence, SaaS workflows, supply-chain analytics**, and **data-driven decision-making**—giving me a unique perspective on how software impacts business operations.
-
-Currently, I'm actively building my GitHub portfolio with meaningful projects that showcase both technical depth and practical impact.
+- 🎓 Computer Engineering student at **Savitribai Phule Pune University**
+- 🏆 Consistent **Top 5** performer with SGPA 9.18 (2nd Year)
+- 💡 Passionate about solving real-world problems through code and innovation
+- 🤖 Hands-on experience in building **ML-powered solutions** and intelligent systems
+- 📊 Practical exposure to **Business Intelligence, SaaS workflows, and supply-chain analytics**
+- 🎯 Strong foundation in **DSA, OOP, DBMS**, and software engineering principles
+- 🚀 Currently building a diverse GitHub portfolio with meaningful, impactful projects
+- 🔍 Thrive at the intersection of **logic, creativity, and technology**
 
 ---
 
@@ -74,11 +77,11 @@ Data Structures & Algorithms • Object-Oriented Programming • DBMS • Softwa
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajinkyawagh4846&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkyawagh4846&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkyawagh4846&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkyawagh4846&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
