@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=dark&hide_border=true&hide=stars,prs,issues,contribs&card_width=400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
