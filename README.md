@@ -54,15 +54,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkyawagh4846&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Ajinkyawagh4846&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ajinkyawagh4846&layout=compact&theme=dark&hide_border=true&border_radius=5" alt="Top Languages" width="350"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ajinkyawagh4846&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
