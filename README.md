@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Ajinkya Wagh
 
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400">
 
 ### Computer Engineering Student | Problem Solver | Hackathon Finalist
   
