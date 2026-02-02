@@ -74,14 +74,13 @@ Data Structures & Algorithms • Object-Oriented Programming • DBMS • Softwa
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajinkyawagh4846&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajinkyawagh4846)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajinkyawagh4846&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkyawagh4846&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkyawagh4846&layout=compact)
 
 </div>
----
 
 ## 🔭 What I'm Currently Working On
 
