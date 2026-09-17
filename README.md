@@ -17,15 +17,13 @@
 
 ---
 
-## 🚀 About Me
+## 🙋 About Me
 
-- 🎓 Final-year **Computer Engineering** student at **Savitribai Phule Pune University (SPPU)**
-- 🏆 Consistent **Top 5** performer across all years — SGPA 8.86 → 9.18 → 9.48
-- 🤖 Currently interning at **CodeAlpha (AI Internship)**, building computer vision and NLP-based applications
-- 💡 I like turning messy real-world problems into working products — from ML pipelines to full-stack apps
-- 📊 Comfortable across the stack: data cleaning & EDA, model building, backend APIs, and deploying things people can actually use
-- 🧪 Also picking up **Software Testing & Automation** (Selenium, STLC) alongside AI/ML — I like knowing how to *break* things, not just build them
-- 🚀 Actively exploring opportunities in **AI/ML, Data Science, Software Development,** and **QA/Automation**
+I'm a final-year **Computer Engineering** student at **Savitribai Phule Pune University (SPPU)**, genuinely curious about how AI, data, and software come together to solve real problems. My work spans machine learning and data-driven applications to full-stack web development, and more recently, software testing and automation.
+
+I enjoy the full journey of building something — cleaning messy data, training and evaluating models, wiring up backend APIs, and shipping it as a working product people can actually use. I'm currently figuring out where I fit best long-term, but I'm mainly exploring roles in **AI/ML, Data Science, Software Development,** and **QA/Automation**.
+
+Outside of coursework, I actively take part in hackathons and enjoy the pressure of building something functional in a short time.
 
 ---
 
@@ -85,72 +83,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ajinkyawagh4846&show_icons=true&theme=dark&hide_border=true&hide=stars,prs,issues,contribs&card_width=400" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ajinkyawagh4846&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="400"/>
-</p>
-
----
-
-## 🚀 Projects I'm Proud Of
-
-### 🌾 AgriSmart-AI — Climate-Smart Agriculture Platform
-Built a platform delivering AI-driven price intelligence, weather advisory, and direct buyer-farmer market linkage for farmers in Nashik — improved price realization by ~40% and cut middlemen dependency by ~70%.
-`React 18` `TypeScript` `Supabase` `Firebase` `Gemini 1.5 Pro` `Vertex AI`
-
-### 🕵️ AI-Powered Deepfake & Fraud Detection System
-An ML-based system to detect deepfake media and spam for fraud prevention, using feature extraction + classification pipelines, served through a Flask REST API.
-`Python` `OpenCV` `Machine Learning` `Deep Learning` `Flask`
-
-### 🎬 FilmReviewer — AI-Powered Movie Sentiment Platform
-Full-stack web app that analyzes and visualizes movie sentiment. Built the Flask REST APIs, auth, and ML-based sentiment analysis myself, and deployed it end-to-end on Vercel/Render.
-`Python` `Flask` `Machine Learning` `PostgreSQL` `Vercel` `Render` `Supabase`
-
-### 🧩 Character Backstory Consistency Checker *(KDSH 2026 Hackathon)*
-AI-powered system that verifies whether character backstories are causally consistent with novel narratives, using RAG, multi-claim reasoning, and LLM-based analysis.
-`Python` `RAG` `LLMs`
-
-### 🧪 Web Application Login Automation
-Automated login test scenarios (valid, invalid, and empty credentials) for a web app using Selenium WebDriver, verifying expected outcomes across cases.
-`Selenium WebDriver` `Java / Python`
-
-### 🤖 CodeAlpha AI Internship Projects *(ongoing)*
-Building these as part of my current AI Internship at CodeAlpha:
-- **Advanced-object-detection** — Real-time object detection & multi-object tracking system using YOLOv8, ByteTrack, OpenCV, and Streamlit.
-- **LinguaBridge** — AI-powered language translation tool built with Streamlit and the Google Gemini API.
-- **FAQ-Chatbot-CampusAssist** — NLP-based FAQ chatbot using TF-IDF and Cosine Similarity to answer common college-related queries.
+- 🤖 Currently an **AI Intern at CodeAlpha**, building computer vision and NLP-based applications *(ongoing)*
+- 📊 Completed a **Data Science internship at Softcrowd Technologies**, working on data cleaning, EDA, and ML projects with Python
+- 🧪 Practical experience with **Software Testing & Automation** — Selenium WebDriver, STLC/SDLC, and test case design
+- 💻 Built and shipped multiple end-to-end AI/ML and full-stack projects — from model training to deployment
+- 📈 Hands-on exposure to **Business Intelligence and analytics workflows** using Power BI and SQL
 
 ---
 
-## 💼 Experience
+## 🚀 Projects
 
-**Data Science Intern** — Softcrowd Technologies, Nashik *(Dec 2025 – Feb 2026)*
-Worked on data cleaning, exploratory data analysis (EDA), and basic ML projects using Python.
+- 🌾 **[AgriSmart-AI](https://github.com/Ajinkyawagh4846/FarmAssist)** — Climate-smart agriculture platform with AI-driven price intelligence and weather advisory for farmers
+- 🕵️ **[AI-Powered Deepfake & Fraud Detection System](https://github.com/Ajinkyawagh4846/AI-Spam-Deepfake-Fraud-Detection)** — ML-based deepfake and spam detection with a Flask API
+- 🎬 **[FilmReviewer](https://github.com/Ajinkyawagh4846/movie-sentiment-analysis)** — Full-stack movie sentiment analysis platform
+- 🧩 **[Character Backstory Consistency Checker](https://github.com/Ajinkyawagh4846/character-backstory-consistency-checker)** — RAG-based narrative consistency checker built for KDSH 2026
+- 🎯 **[Advanced-object-detection](https://github.com/Ajinkyawagh4846/Advanced-object-detection)** — Real-time object detection & tracking with YOLOv8 *(CodeAlpha, ongoing)*
+- 🌐 **[LinguaBridge](https://github.com/Ajinkyawagh4846/LinguaBridge)** — AI-powered translation tool using Gemini API *(CodeAlpha, ongoing)*
 
-**AI Intern** — CodeAlpha *(Ongoing)*
-Currently building AI/ML applications spanning computer vision, NLP, and conversational AI as part of the internship.
-
----
-
-## 🎓 Education
-
-**B.E. Computer Engineering**, Savitribai Phule Pune University *(2023 – Present)*
-SGPA: 8.86 (FY) → 9.18 (SY) → 9.48 (TY) — consistently ranked **Top 5** in class
+More on my [GitHub profile →](https://github.com/Ajinkyawagh4846)
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Achievements
 
 - 🥇 **Finalist, i-Hack Hackathon** — IIT Bombay E-Summit 2025 (Top 20 teams nationally)
 - 🇮🇳 Cleared internal rounds of **Smart India Hackathon (SIH)** — 2024 & 2025
 - 🎖️ **Student of the Year** — Life Insurance Corporation of India (LIC)
 - 📈 Ranked among **Top 5 students** in college (SGPA 9.18) — twice
 - 🌍 Participant, **UNESCO Hackathon**
-- 📜 Certifications: NPTEL (Java Programming), Microsoft Learn Ambassador – Explore AI, Outskill Gen-AI Mastermind
+- 📜 **Certifications:** NPTEL (Java Programming) · Microsoft Learn Ambassador – Explore AI · Outskill Gen-AI Mastermind
 
 ---
 
