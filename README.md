@@ -65,7 +65,6 @@ i-Hack Hackathon Finalist at IIT Bombay E-Summit 2025, placing in the top 20 tea
 
 ---
 
-## 📫 Let's Connect!
 
 I'm always open to collaborating on interesting projects, internship opportunities, and tech discussions. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ajinkyawagh-a201212b8) or [Email](mailto:ajinkyawagh2005@gmail.com)!
 
