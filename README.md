@@ -35,7 +35,7 @@ Outside of coursework, I actively take part in hackathons and enjoy the pressure
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C3?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -47,6 +47,25 @@ Outside of coursework, I actively take part in hackathons and enjoy the pressure
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-6A1B9A?style=for-the-badge&logo=python&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2E7D32?style=for-the-badge&logo=python&logoColor=white)
+
+**LLM & Generative AI**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5E35B1?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-1565C0?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-00897B?style=for-the-badge&logo=databricks&logoColor=white)
+![Tokenization](https://img.shields.io/badge/Tokenization-6D4C41?style=for-the-badge&logo=python&logoColor=white)
+![Context Windows](https://img.shields.io/badge/Context_Windows-3949AB?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=for-the-badge&logo=google&logoColor=white)
+
+**Computer Vision**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object_Detection-5C6BC0?style=for-the-badge&logo=opencv&logoColor=white)
+![Object Tracking](https://img.shields.io/badge/Object_Tracking-00838F?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Web & Backend**
 
@@ -59,12 +78,12 @@ Outside of coursework, I actively take part in hackathons and enjoy the pressure
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Cloud, BI & Platforms**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)
